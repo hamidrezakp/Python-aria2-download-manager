@@ -1,5 +1,6 @@
 # Aria2 DownLoad Manager for Raspberry pi
-# Hamidreza@hamidrezakp.ir
+# hamidrezakp.ir
+# Hamid Reza Kaveh Pishghadam <hamidreza@hamidrezakp.ir>
 import os
 df = '/home/pi/Download/'
 # get list of files in Download folder
